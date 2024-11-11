@@ -1,4 +1,4 @@
-no# Capstone-Project-2
+# Capstone-Project-2
 ---
 ## Project title: Customer Subscription Data
 ---
@@ -23,9 +23,11 @@ Data Visualisation
 This dataset provides a comprehensive look at customer subscription patterns and revenue, enabling insights into the drivers of pattern and high-demand subscription of different customer.
 
 ### Data Source
+---
 
 ### Data Description
 ---
+The Dataset includes the following fields; 
 
 i. Customer ID: Unique identifier givemn to each customers
 
@@ -44,3 +46,20 @@ vii. Cancelled: Shows if the subscription was actually cancelled or not
 viii.Revenue: Total amount of money made from the packages
 
 ix. Subscription Duration: Time the Subscription lasted
+
+### Tools Used
+Microsoft Excel[https://Microsoft.com]
+For Data Input
+For Analysis
+For Data Cleaning
+For Data visualization
+
+Microsoft SQL Server Download Here
+To manage and querry data
+Microsoft Power BI Download Here
+For Data Transformation
+Data modelling
+To Create reports and dashboards that are collections of visuals.
+
+GitHub Download Here
+For Portfolio Building
