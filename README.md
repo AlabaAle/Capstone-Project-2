@@ -20,6 +20,7 @@
 [Data Visualisation](data-visualiztaion)
 
 ### Project Overview
+---
 This dataset provides a comprehensive look at customer subscription patterns and revenue, enabling insights into the drivers of pattern and high-demand subscription of different customer.
 
 ### Data Source
@@ -94,3 +95,11 @@ i. Data Types and Formatting;This was to ensure the data fields were assigned th
 ii. Sorting: Sorted the dataset by the Date column to organize transactions chronologically.
 
 iii. Created New Columns: Added a new column to have more calculations like Revenue.
+
+### Data Analysis
+---
+Some of the code used to analysed the data are:
+
+VLOOKUP(lookup_value,table_array,col_index-number,[range_lookup])
+LEFT(text,[num_char])
+SUMIF(range,criteria,[sum_range])
