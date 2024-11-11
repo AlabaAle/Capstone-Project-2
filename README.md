@@ -1,4 +1,4 @@
-no# Capstone-Project-2
+# Capstone-Project-2
 ---
 ## Project title: Customer Subscription Data
 ---
@@ -50,18 +50,26 @@ ix. Subscription Duration: Time the Subscription lasted
 ### Tools Used
 ---
 Microsoft Excel[Dowmload Here](https://Microsoft.com)
+
 i. For Data Input
+
 ii.For Analysis
+
 iii.For Data Cleaning
+
 iv.For Data visualization
 
-Microsoft SQL Server [Download Here](https://Mictosoft.com)
+Microsoft SQL Server[Download Here](https://Mictosoft.com)
+
 i. To manage and querry data
 
 Microsoft Power BI [Download Here](https://Micosoft.com)
+
 i. For Data Transformation
    Data modelling
+
 ii.To Create reports and dashboards    that are collections of visuals.
 
-GitHub [Download Here](https://Alabaale.github.com)
+GitHub[Download Here](https://Alabaale.github.com)
+
 i. For Portfolio Building
