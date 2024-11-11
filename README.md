@@ -1,4 +1,4 @@
-# Capstone-Project-2
+see# Capstone-Project-2
 ---
 ## Project title: Customer Subscription Data
 ---
@@ -104,7 +104,8 @@ VLOOKUP(lookup_value,table_array,col_index-number,[range_lookup])
 LEFT(text,[num_char])
 SUMIF(range,criteria,[sum_range])
 ---
-'''SQL
+
+```SQL
 
 SELECT *FROM [dbo].[LITA Capstone Dataset CSV(1)]
 
