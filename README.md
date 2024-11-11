@@ -103,3 +103,22 @@ Some of the code used to analysed the data are:
 VLOOKUP(lookup_value,table_array,col_index-number,[range_lookup])
 LEFT(text,[num_char])
 SUMIF(range,criteria,[sum_range])
+---
+
+SELECT * FROM [dbo].[LITA Capstone Dataset CSV(1)]
+
+select Region,
+count(customeriD) as Total_Customers
+from [dbo].[LITA Capstone Dataset CSV(1)]
+group by
+Region;
+
+select Top 1
+SubscriptionType,
+count(customerID) as Number_of_Customers
+from 
+[dbo].[LITA Capstone Dataset CSV(1)]
+Group by
+SubscriptionType
+Order By
+Number_of_customers DESC
