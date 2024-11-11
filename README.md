@@ -53,28 +53,28 @@ ix. Subscription Duration: Time the Subscription lasted
 ---
 Microsoft Excel[Dowmload Here](https://Microsoft.com)
 
-i. For Data Input
+  i. For Data Input
 
-ii.For Analysis
+ ii. For Analysis
 
-iii.For Data Cleaning
+ iii.For Data Cleaning
 
-iv.For Data visualization
+ iv.For Data visualization
 
 Microsoft SQL Server[Download Here](https://Mictosoft.com)
 
-i. To manage and querry data
+  i. To manage and querry data
 
 Microsoft Power BI [Download Here](https://Micosoft.com)
 
-i. For Data Transformation
-   Data modelling
+  i. For Data Transformation
+     Data modelling
 
-ii.To Create reports and dashboards    that are collections of visuals.
+  ii.To Create reports and              dashboards that are                collections of visuals.
 
 GitHub[Download Here](https://Alabaale.github.com)
 
-i. For Portfolio Building
+  i. For Portfolio Building
 
 ### Data Cleaning and Preparation
 ---
