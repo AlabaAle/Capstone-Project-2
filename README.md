@@ -1,4 +1,4 @@
-no# Capstone-Project-2
+# Capstone-Project-2
 ---
 ## Project title: Customer Subscription Data
 ---
@@ -74,3 +74,13 @@ ii.To Create reports and dashboards    that are collections of visuals.
 GitHub[Download Here](https://Alabaale.github.com)
 
 i. For Portfolio Building
+
+### Data Cleaning and Preparation
+---
+In the initial data entry phase the following actions were performed;
+
+i. Ensuring data quality by correcting spellings errors, removing duplicates entries and addressing missing values.
+
+ii.Standardization; made to standard by using find and replace in certain fields
+
+iii.Importing of data from excel to SQL then Power Bi.
