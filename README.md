@@ -1,4 +1,4 @@
-# Capstone-Project-2
+no# Capstone-Project-2
 ---
 ## Project title: Customer Subscription Data
 ---
@@ -124,3 +124,10 @@ Group by
 SubscriptionType
 Order By
 Number_of_customers DESC
+---
+Total Customer = COUNT('Customer Data B'[CustomerID])
+Avr Revenue 1 = AVERAGE('Customer Data B'[Revenue])
+Rate Of Cancellation = SUM('Customer Data B'[Cancelled count])/SUM('Customer Data B'[Customer Count])
+Total Customer = COUNT('Customer Data B'[CustomerID])
+Avr Revenue 1 = AVERAGE('Customer Data B'[Revenue])
+
