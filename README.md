@@ -1,4 +1,4 @@
-# Capstone-Project-2
+no# Capstone-Project-2
 ---
 ## Project title: Customer Subscription Data
 ---
@@ -24,6 +24,7 @@ This dataset provides a comprehensive look at customer subscription patterns and
 
 ### Data Source
 ---
+The main source of data here is Capstone Customer Subscription data.csv which was previously an excel data file then cleaned and converted to Csv file before importing to Sql then visualization on Power Bi for proper investigation
 
 ### Data Description
 ---
