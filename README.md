@@ -1,23 +1,23 @@
-# Capstone-Project-2
+no# Capstone-Project-2
 ---
 ## Project title: Customer Subscription Data
 ---
 
 ### Outline 
 
-Project Overview
+[Project Overview](project-overview)
 
-Data Sources
+[Data Sources](data-sources)
 
-Data Description
+[Data Description](data-description)
 
-Tools Used
+[Tools Used](tools-used)
 
-Data Cleaning and Preparation
+[Data Cleaning and Preparation](datacleaningandpreparation)
 
-Data Transformation
+[Data Transformation](data-transformation)
 
-Data Visualisation
+[Data Visualisation](data-visualiztaion)
 
 ### Project Overview
 This dataset provides a comprehensive look at customer subscription patterns and revenue, enabling insights into the drivers of pattern and high-demand subscription of different customer.
@@ -48,18 +48,20 @@ viii.Revenue: Total amount of money made from the packages
 ix. Subscription Duration: Time the Subscription lasted
 
 ### Tools Used
-Microsoft Excel[https://Microsoft.com]
-For Data Input
-For Analysis
-For Data Cleaning
-For Data visualization
+---
+Microsoft Excel[Dowmload Here](https://Microsoft.com)
+i. For Data Input
+ii.For Analysis
+iii.For Data Cleaning
+iv.For Data visualization
 
-Microsoft SQL Server Download Here
-To manage and querry data
-Microsoft Power BI Download Here
-For Data Transformation
-Data modelling
-To Create reports and dashboards that are collections of visuals.
+Microsoft SQL Server [Download Here](https://Mictosoft.com)
+i. To manage and querry data
 
-GitHub Download Here
-For Portfolio Building
+Microsoft Power BI [Download Here](https://Micosoft.com)
+i. For Data Transformation
+   Data modelling
+ii.To Create reports and dashboards    that are collections of visuals.
+
+GitHub [Download Here](https://Alabaale.github.com)
+i. For Portfolio Building
